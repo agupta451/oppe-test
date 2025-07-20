@@ -34,6 +34,7 @@ jobs:
           gcloud auth activate-service-account --key-file=gcp-key.json
           dvc remote modify remote credentialpath gcp-key.json
           dvc pull
+          dvc pull models/model.joblib
 
       - name: Run tests
         run: |
