@@ -33,3 +33,5 @@ jobs:
           dvc pull
 
       - name: Run tests
+        run: |
+          pytest test_run.py
