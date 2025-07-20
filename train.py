@@ -6,7 +6,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import OrdinalEncoder
 from sklearn.metrics import accuracy_score
 mlflow.set_tracking_uri("http://104.154.167.143:8100")
-
+#
 mlflow.set_experiment("iris_classification")
 
 df = pd.read_csv("data/iris.csv")
