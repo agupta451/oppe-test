@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/749322242089123556/7d411e9751bb4a74b0a505af09590c5b/artifacts
+end_time: 1753004383265
+entry_point_name: ''
+experiment_id: '749322242089123556'
+lifecycle_stage: active
+run_id: 7d411e9751bb4a74b0a505af09590c5b
+run_name: charming-panda-214
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753004379887
+status: 3
+tags: []
+user_id: apoorvag_2017_gmail_com

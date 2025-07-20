@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/749322242089123556/191dddc2ed384c06b817edf8c23c282a/artifacts
+end_time: 1753004360705
+entry_point_name: ''
+experiment_id: '749322242089123556'
+lifecycle_stage: active
+run_id: 191dddc2ed384c06b817edf8c23c282a
+run_name: placid-squirrel-544
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753004355925
+status: 4
+tags: []
+user_id: apoorvag_2017_gmail_com
